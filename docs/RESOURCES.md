@@ -13,3 +13,8 @@
 - https://github.com/swyxio/ai-notes#top-prompt-engineering-reads
 - https://github.com/dair-ai/Prompt-Engineering-Guide
 - https://github.com/oughtinc/ice
+
+## Videos
+
+- [OpenAI CEO Sam Altman and CTO Mira Murati on the Future of AI and ChatGPT | WSJ Tech Live 2023](https://www.youtube.com/watch?v=byYlC2cagLw)
+

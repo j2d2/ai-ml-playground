@@ -1,11 +1,15 @@
 # AI/ML Trainings and Coursework
 
+## Interesting!
+
+- https://aitestkitchen.withgoogle.com/tools/music-fx
+
 ## Resources
 
 * https://www.anaconda.com/definitive-guide-to-ai-platforms
 * https://learning.anaconda.cloud/ 
 
-## Plans
+## Learning Plans
 
 * [Anaconda Python for Data Science Professional Certificate](https://www.linkedin.com/learning/paths/anaconda-python-for-data-science-professional-certificate)
 * [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training)
@@ -24,3 +28,4 @@
 1. _LinkedIn Learning:_ [Hands-On AI: Build a Generative Language Model from Scratch](https://www.linkedin.com/learning/hands-on-ai-build-a-generative-language-model-from-scratch)
 
 1. _LinkedIn Learning:_ [Prompt Engineering: How to Talk to the AIs](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais)
+

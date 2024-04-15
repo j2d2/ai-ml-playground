@@ -36,21 +36,25 @@ Fixing LLM inconsistency
   Guard against hallucinations, inappropriate responses
   Keep temperature close to zero
 
+[TruLens-Canopy Quickstart (ipynb)](https://github.com/truera/trulens/blob/main/trulens_eval/examples/expositional/frameworks/canopy/canopy_quickstart.ipynb)
+> Canopy is an open-source framework and context engine built on top of the Pinecone vector database so you can build and host your own production-ready chat assistant at any scale. By integrating TruLens into your Canopy assistant, you can quickly iterate on and gain confidence in the quality of your chat assistant
+
 ## The RAG Triad  
 Query -> Context -> (Groundedness) Response -> (back to Query)
 
 
 # References
 
-https://community.deeplearning.ai/top?period=weekly
+- https://community.deeplearning.ai/top?period=weekly
+- https://www.deeplearning.ai/courses/
+- https://www.deeplearning.ai/courses/generative-ai-with-llms/
 
-https://www.deeplearning.ai/courses/
+_Free Short Courses:_
 
-https://www.deeplearning.ai/short-courses/open-source-models-hugging-face
+- https://www.deeplearning.ai/short-courses/open-source-models-hugging-face
+- https://www.deeplearning.ai/short-courses/building-applications-vector-databases
+- https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag
 
-https://www.deeplearning.ai/short-courses/building-applications-vector-databases
-
-https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag
 
 ---
 
