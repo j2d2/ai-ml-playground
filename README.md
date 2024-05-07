@@ -6,7 +6,13 @@
 
 ## Resources
 
+### Docs
+* https://docs.anaconda.com/
+
+### Guides
 * https://www.anaconda.com/definitive-guide-to-ai-platforms
+
+### Learning
 * https://learning.anaconda.cloud/ 
 
 ## Learning Plans
